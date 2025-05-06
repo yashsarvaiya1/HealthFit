@@ -11,10 +11,6 @@
 - 🔔 **Smart Reminders**: Optional push notifications to stay consistent
 - 🌙 **Dark Mode Support**: Designed for comfort in all lighting conditions
 
-## 📸 Screenshots
-
-*(Add screenshots here once you have them — e.g., animated workouts, dashboard, progress chart)*
-
 ## 🛠 Tech Stack
 
 - **Framework:** Flutter
