@@ -1,19 +1,32 @@
-# shooter
-[App link](/shooter.apk)
+# 🏋️ HealthFit
 
-Shooter Game in Flutter
+**HealthFit** is a sleek and responsive 3D fitness tracker built with Flutter. It provides users with animated workout routines, real-time progress tracking, and personalized metrics — all packed in a modern and interactive UI.
 
-A new Flutter project..
+## 🚀 Features
 
-## Getting Started
+- 🧍‍♂️ **3D Animated Workouts**: Interactive, animated workout models to guide user exercises
+- 📈 **Progress Tracking**: Real-time performance stats with weekly/monthly charts
+- 🎨 **Clean UI**: User-friendly design with feedback-driven interface
+- ⚙️ **Custom Routines**: Users can create and manage their own fitness plans
+- 🔔 **Smart Reminders**: Optional push notifications to stay consistent
+- 🌙 **Dark Mode Support**: Designed for comfort in all lighting conditions
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+*(Add screenshots here once you have them — e.g., animated workouts, dashboard, progress chart)*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Framework:** Flutter
+- **State Management:** GetX / BLoC (whichever was used)
+- **Database:** Firebase / Hive (if used)
+- **Animations:** Rive / Lottie / Custom Flutter animations
+- **Storage:** Local DB for offline usage (Hive / SharedPreferences)
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/yashsarvaiya1/HealthFit.git
+cd HealthFit
+flutter pub get
+flutter run
